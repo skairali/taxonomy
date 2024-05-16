@@ -1,4 +1,4 @@
-created_by: IBM Research
+created_by: IBM Research No
 domain: ibm redbooks
 seed_examples:
 - answer: The Cross Applications - Situation Handling capability in SAP S/4HANA allows
@@ -15,7 +15,7 @@ seed_examples:
 - answer: A. It is used for extracting data from the EHS location hierarchy for further
     processing in other CDS views or consuming solutions.
   question: 'What is the purpose of the I\_EHSLocationHierarchy CDS view in SAP Environment
-    Management?
+    Management? iuyiiyuiyiuyiyiyiyiyiyiyiuyiyiyiyyiu
 
 
     A. It is used for extracting data from the EHS location hierarchy for further
